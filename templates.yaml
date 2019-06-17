@@ -1,0 +1,3 @@
+welcome: Welcome to Crypto Baba. Ask me any crypto currency rate on different exchanges!
+
+rate: Latest rate of {{coin}} is {{rate}} {{currency}} on {{exchange}}. 
